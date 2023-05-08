@@ -1,0 +1,15 @@
+C:\Users\Дима\Desktop\ItogBloka\bin\Debug\net6.0\ItogBloka.exe
+C:\Users\Дима\Desktop\ItogBloka\bin\Debug\net6.0\ItogBloka.deps.json
+C:\Users\Дима\Desktop\ItogBloka\bin\Debug\net6.0\ItogBloka.runtimeconfig.json
+C:\Users\Дима\Desktop\ItogBloka\bin\Debug\net6.0\ItogBloka.dll
+C:\Users\Дима\Desktop\ItogBloka\bin\Debug\net6.0\ItogBloka.pdb
+C:\Users\Дима\Desktop\ItogBloka\obj\Debug\net6.0\ItogBloka.csproj.AssemblyReference.cache
+C:\Users\Дима\Desktop\ItogBloka\obj\Debug\net6.0\ItogBloka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дима\Desktop\ItogBloka\obj\Debug\net6.0\ItogBloka.AssemblyInfoInputs.cache
+C:\Users\Дима\Desktop\ItogBloka\obj\Debug\net6.0\ItogBloka.AssemblyInfo.cs
+C:\Users\Дима\Desktop\ItogBloka\obj\Debug\net6.0\ItogBloka.csproj.CoreCompileInputs.cache
+C:\Users\Дима\Desktop\ItogBloka\obj\Debug\net6.0\ItogBloka.dll
+C:\Users\Дима\Desktop\ItogBloka\obj\Debug\net6.0\refint\ItogBloka.dll
+C:\Users\Дима\Desktop\ItogBloka\obj\Debug\net6.0\ItogBloka.pdb
+C:\Users\Дима\Desktop\ItogBloka\obj\Debug\net6.0\ItogBloka.genruntimeconfig.cache
+C:\Users\Дима\Desktop\ItogBloka\obj\Debug\net6.0\ref\ItogBloka.dll
